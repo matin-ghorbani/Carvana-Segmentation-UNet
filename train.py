@@ -81,7 +81,7 @@ def main() -> None:
     )
 
     if config.LOAD_MODEL:
-        ul.load_checkpoint(torch.load('my_checkpoint.pth.tar'), model)
+        ul.load_checkpoint(torch.load('carvana_segmentation.pth.tar'), model)
 
     scaler = GradScaler()
     for epoch in range(config.NUM_EPOCHS):
