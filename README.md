@@ -123,6 +123,10 @@ You can download my weight from [here](https://drive.google.com/file/d/1WK-BsxPH
 
 I got these results after only 3 epochs
 
+| **Test Image 1** | **Test Image 2** | **Test Image 3** |
+|:----------------:|:----------------:|:----------------:|
+| ![Result 1](./outputs/test_image_1.jpg) | ![Result 2](./outputs/test_image_2.jpg) | ![Result 3](./outputs/test_image_3.jpg) |
+
 | **Prediction 1** | **Prediction 2** | **Prediction 3** |
 |:----------------:|:----------------:|:----------------:|
 | ![Result 1](./outputs/result1.png) | ![Result 2](./outputs/result2.png) | ![Result 3](./outputs/result3.png) |
